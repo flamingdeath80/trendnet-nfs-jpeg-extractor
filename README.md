@@ -32,7 +32,7 @@ This script solves that problem by extracting the JPEG images directly from thes
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/trendnet-nfs-jpeg-extractor.git
+git clone https://github.com/flamingdeath80/trendnet-nfs-jpeg-extractor.git
 cd trendnet-nfs-jpeg-extractor
 ```
 
