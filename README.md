@@ -11,7 +11,7 @@ This script solves that problem by extracting the JPEG images directly from thes
 ## Features
 
 - **Extracts embedded JPEG images** from Trendnet `.pic` files
-- **Automatic date-based organization** - Creates folders named with current date (YYYY-MM-DD)
+- **Automatic date-based organisation** - Creates folders named with current date (YYYY-MM-DD)
 - **Sequential numbering** - Names extracted images as `image_0000.jpg`, `image_0001.jpg`, etc.
 - **Cleanup after extraction** - Removes JPEG data from source files after extraction
 - **Automatic ownership management** - Sets proper file ownership (configurable)
